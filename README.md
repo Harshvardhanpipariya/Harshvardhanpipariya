@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshvardhanpipariya
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data structure
+- 🌱 I’m currently learning dsa
 
 <!---
 Harshvardhanpipariya/Harshvardhanpipariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
